@@ -1,0 +1,10 @@
+Name: Kim
+ID: st77719
+Email: snapandsaw@gmail.com
+Date Of Birth: Wed Oct 06 00:00:00 EEST 1999
+
+Name: Vlladimir
+ID: st78893
+Email: Vladimir@gmail.com
+Date Of Birth: Mon Jul 24 00:00:00 EET 2000
+
